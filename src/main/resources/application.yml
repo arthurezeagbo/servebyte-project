@@ -1,0 +1,5 @@
+server:
+    port: 8081
+
+app:
+    secret: sk_test_cccae62c3a49b035092c9a272eb4e1c1260da650
